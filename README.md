@@ -1,6 +1,6 @@
 # SWMM-Initializing-and-Calibrating-for-LID-Planning
 ## Workflow  
-  ![image](https://user-images.githubusercontent.com/88581752/221405256-1acde5dc-7a7d-481e-a53a-f32c2ecb2c65.png)  
+  ![image](https://user-images.githubusercontent.com/88581752/221405256-1acde5dc-7a7d-481e-a53a-f32c2ecb2c65.png = 250x500)  
   
 ## Tool links
 GisToSWMM5: https://github.com/AaltoUrbanWater/GisToSWMM5  
