@@ -1,0 +1,15 @@
+id,imperv,dst_imp,n_imper,dst_per,n_perv,percz_i,rain_ga,conduct,initdef,suction,Snowpacks,Tag
+30,90,0.4,0.012,4.22,0.24,0,STA01,4.21,0.217,88.9,sp_imp_nonplowable,Private Residential
+31,90,0.4,0.012,4.22,0.24,0,STA01,4.21,0.217,88.9,sp_imp_nonplowable,Public Residential
+32,90,0.4,0.012,4.22,0.24,0,STA01,4.21,0.217,88.9,sp_imp_nonplowable,Commercial 
+33,90,0.4,0.012,4.22,0.24,0,STA01,4.21,0.217,88.9,sp_imp_plowable,Government
+60,10,0.4,0.012,4.22,0.24,0,STA01,4.21,0.217,88.9,sp_imp_plowable,Open Space and Recreation
+34,100,0.4,0.011,4.22,0.24,0,STA01,4.21,0.217,88.9,sp_imp_plowable,Roads and Transport Facilities
+35,100,0.4,0.013,4.22,0.24,0,STA01,4.21,0.217,88.9,sp_imp_plowable,Railways
+61,10,0.4,0.012,4.22,0.24,0,STA01,4.21,0.217,88.9,sp_imp_plowable,Utilities
+36,90,0.4,0.012,4.22,0.24,0,STA01,4.21,0.217,88.9,sp_imp_plowable,Vacant land 
+37,90,0.4,0.012,4.22,0.24,0,STA01,4.21,0.217,88.9,sp_imp_plowable,Others
+62,0,0.4,0.012,4.22,0.8,0,STA01,4.21,0.217,88.9,sp_per,Woodland
+63,0,0.4,0.012,4.22,0.4,0,STA01,4.21,0.217,88.9,sp_per,Shrubland
+64,0,0.4,0.012,4.22,0.24,0,STA01,4.21,0.217,88.9,sp_per,Grassland
+10,100,0.87,0.012,4.22,0.24,0,STA01,4.21,0.217,88.9,sp_imp_nonplowable,Connected roof

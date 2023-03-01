@@ -1,0 +1,2 @@
+Gage,Format,Interval,SCF,Source    ,Path,Station name,Units
+STA01,VOLUME,0:01,1,FILE,../Data_input/prec_mm.DAT,STA01,MM

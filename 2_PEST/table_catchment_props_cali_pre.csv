@@ -1,0 +1,15 @@
+id,imperv,dst_imp,n_imper,dst_per,n_perv,percz_i,rain_ga,conduct,initdef,suction,Snowpacks,Tag
+30,a1,b1,c1,d1,e1,0,STA01,g1,h1,88.9,sp_imp_nonplowable,Private Residential
+31,a2,b2,c2,d2,e2,0,STA01,g1,h1,88.9,sp_imp_nonplowable,Public Residential
+32,a3,b3,c3,d3,e3,0,STA01,g1,h1,88.9,sp_imp_nonplowable,Commercial 
+33,a4,b4,c4,d4,e4,0,STA01,g1,h1,88.9,sp_imp_plowable,Government
+60,a5,b5,c5,d5,e5,0,STA01,g1,h1,88.9,sp_imp_plowable,Open Space and Recreation
+34,a6,b6,c6,d6,e6,0,STA01,g1,h1,88.9,sp_imp_plowable,Roads and Transport Facilities
+35,a7,b7,c7,d7,e7,0,STA01,g1,h1,88.9,sp_imp_plowable,Railways
+61,a8,b8,c8,d8,e8,0,STA01,g1,h1,88.9,sp_imp_plowable,Utilities
+36,a9,b9,c9,d9,e9,0,STA01,g1,h1,88.9,sp_imp_plowable,Vacant land 
+37,a10,b10,c10,d10,e10,0,STA01,g1,h1,88.9,sp_imp_plowable,Others
+62,a11,b11,c11,d11,e11,0,STA01,g1,h1,88.9,sp_per,Woodland
+63,a12,b12,c12,d12,e12,0,STA01,g1,h1,88.9,sp_per,Shrubland
+64,a13,b13,c13,d13,e13,0,STA01,g1,h1,88.9,sp_per,Grassland
+10,a14,b14,c14,d14,e14,0,STA01,g1,h1,88.9,sp_imp_nonplowable,Connected roof
