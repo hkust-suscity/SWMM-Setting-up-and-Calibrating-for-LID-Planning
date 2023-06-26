@@ -3,7 +3,9 @@
 
 This is the official code repository for the paper ***"Assessing Runoff Control of Low Impact Development in Hong Kong’s Dense Community with Reliable SWMM Setup and Calibration"*** under review. 
 
+<div style="width:600px ; height:600px">
 ![Flow chart](https://github.com/hkust-suscity/SWMM-Setting-up-and-Calibrating-for-LID-Planning/assets/67317799/60476bd3-88d1-4fbb-b04a-37eaeed09af8)
+<div>
 
 ## Tool links
 GisToSWMM5: https://github.com/AaltoUrbanWater/GisToSWMM5  
