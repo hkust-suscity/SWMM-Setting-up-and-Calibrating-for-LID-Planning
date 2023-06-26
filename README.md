@@ -1,7 +1,7 @@
 # SWMM-Initializing-and-Calibrating-for-LID-Planning
 ## Workflow  
 
-This is the official code repository for the paper ***"Assessing Runoff Control of Low Impact Development in the Dense Community of Hong Kong with an Easy-to-Implement Framework of Initializing and Calibrating SWMM"*** under review. 
+This is the official code repository for the paper ***"Assessing Runoff Control of Low Impact Development in Hong Kong’s Dense Community with Reliable SWMM Setup and Calibration"*** under review. 
 
 <img src="https://user-images.githubusercontent.com/88581752/221405256-1acde5dc-7a7d-481e-a53a-f32c2ecb2c65.png" width="600" height="500">
 
