@@ -1,4 +1,4 @@
-# SWMM-Initializing-and-Calibrating-for-LID-Planning
+# SWMM-Setting-Up-and-Calibrating-for-LID-Planning
 ## Workflow  
 
 This is the official code repository for the paper ***"Assessing Runoff Control of Low Impact Development in Hong Kong’s Dense Community with Reliable SWMM Setup and Calibration"*** under review. 
